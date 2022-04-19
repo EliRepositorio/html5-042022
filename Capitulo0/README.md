@@ -24,3 +24,5 @@ Ya sea que desee dibujar en un lienzo, reproducir videos, diseñar mejores formu
 5.- llegó para quedarse
 
 Tim Berners-Lee inventó la red mundial a principios de la década de 1990. Más tarde fundó el W3C para actuar como administrador de los estándares web, lo que la organización ha hecho durante más de 15 años
+
+  Revisar
